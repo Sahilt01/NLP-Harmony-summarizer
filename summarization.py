@@ -8,7 +8,6 @@ Original file is located at
 """
 
 
-
 import streamlit as st
 import PyPDF2
 from nltk.corpus import stopwords
